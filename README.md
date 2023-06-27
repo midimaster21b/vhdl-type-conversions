@@ -1,7 +1,8 @@
 # VHDL Type Conversion Package
 
-A simple type conversion package to convert between data types provided by the numeric_std and std_logic_arith packages.
-
+A simple type conversion package to convert between data types provided by the
+numeric_std and std_logic_arith packages. This core contains packages only and
+is not meant to be synthesized as a standalone core as it stands currently.
 
 ## Numeric Standard
 
